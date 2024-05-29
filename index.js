@@ -5,6 +5,13 @@ function test(){
 
 function barulagi(){
     console.log('function-baru')
+    console.log('hehe')
+    console.log('hehe')
+    console.log('hehe')
+    console.log('hehe')
+    console.log('hehe')
+    console.log('hehe')
+    console.log('hehe')
 }
 
 
