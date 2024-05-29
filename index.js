@@ -11,7 +11,7 @@ function barulagi(){
     console.log('hehe')
     console.log('hehe')
     console.log('hehe')
-    console.log('hehe')
+    console.log('haha')
 }
 
 
