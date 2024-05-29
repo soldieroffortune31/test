@@ -1,1 +1,12 @@
-console.log('ok')
+function test(){
+    console.log('test')
+}
+
+
+
+
+
+
+
+
+test()
