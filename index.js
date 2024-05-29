@@ -3,7 +3,9 @@ function test(){
 }
 
 
-
+function barulagi(){
+    console.log('function-baru')
+}
 
 
 
